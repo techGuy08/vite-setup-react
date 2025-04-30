@@ -36,7 +36,7 @@ To get a local copy of the code, clone it using git:
 
 ```
 git clone https://github.com/techGuy08/vite-setup-react.git
-cd vite-template-react
+cd vite-setup-react
 ```
 
 Make it your own:
