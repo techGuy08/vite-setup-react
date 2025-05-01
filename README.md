@@ -76,7 +76,7 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-Vite Template React is built and maintained by [Amine S.](https://techguy08.github.io).
+Vite Template React is built and maintained by [Amine S](https://techguy08.github.io).
 
 ## License
 
